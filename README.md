@@ -43,11 +43,11 @@ Railway Django is a local train ticket reservation system built using the Django
 
 ## Contributors
 
-- **Your Name 1**
-  - LinkedIn: Bharathwaj M.
+- **Bharathwaj M.**
+  - LinkedIn: [Click Here](https://www.linkedin.com/in/bharathwajmanoharan/)
   
-- **Your Name 2**
-  - LinkedIn: Akash Prabhu
+- **YAkash Prabhu**
+  - LinkedIn: [Click Here](https://www.linkedin.com/in/akash-prabhu-187858227/)
 
-- **Your Name 3**
-  - LinkedIn: Nikhil Ravichandran
+- **Nikhil Ravichandran**
+  - LinkedIn: [Click Here](https://www.linkedin.com/in/nikhil-ravichandran-ab5aaa247/)https://www.linkedin.com/in/nikhil-ravichandran-ab5aaa247/
